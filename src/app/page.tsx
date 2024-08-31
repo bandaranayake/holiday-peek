@@ -10,7 +10,7 @@ import CountrySelector from "@/components/CountrySelector";
 import { getCountry } from "@/utils/timezone";
 import DialogAttribution from "@/components/DialogAttribution";
 import { Button } from "@/components/ui/button";
-import { MoonIcon, SunIcon } from "@radix-ui/react-icons";
+import { Moon as MoonIcon, Sun as SunIcon } from "lucide-react";
 
 export default function Main() {
   const { theme, setTheme } = useTheme()
