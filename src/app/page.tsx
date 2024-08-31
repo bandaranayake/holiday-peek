@@ -15,10 +15,13 @@ import { Moon as MoonIcon, Sun as SunIcon } from "lucide-react";
 export default function Main() {
   const { theme, setTheme } = useTheme()
 
+  const [mounted, setMounted] = useState(false)
   const [selectedCountry, setSelectedCountry] = useState<string>('');
   const [holidays, setHolidays] = useState<Holiday[]>([]);
 
   useEffect(() => {
+    setMounted(true)
+
     const userCountryCode = getCountry();
     if (userCountryCode && COUNTRIES.some(country => country.countryCode === userCountryCode)) {
       setSelectedCountry(userCountryCode);
@@ -37,6 +40,10 @@ export default function Main() {
     }
   }, [selectedCountry]);
 
+  if (!mounted) {
+    return null
+  }
+
   return (
     <div className="w-full max-w-6xl mx-auto px-4 py-12 md:px-6">
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-8">
@@ -44,13 +51,9 @@ export default function Main() {
         <div className="w-full md:w-auto flex items-center space-x-2">
           <CountrySelector selectedCountry={selectedCountry} onValueChange={setSelectedCountry} countryList={COUNTRIES} />
           {theme === "light" ?
-            <Button variant="outline" size="icon">
-              <SunIcon className="h-4 w-4" onClick={() => setTheme("dark")} />
-            </Button>
+            <Button variant="outline" size="icon" onClick={() => setTheme("dark")}><SunIcon size={16} /></Button>
             :
-            <Button variant="outline" size="icon">
-              <MoonIcon className="h-4 w-4" onClick={() => setTheme("light")} />
-            </Button>
+            <Button variant="outline" size="icon" onClick={() => setTheme("light")}><MoonIcon size={16} /></Button>
           }
         </div>
       </div>
