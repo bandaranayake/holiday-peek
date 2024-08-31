@@ -27,6 +27,7 @@ const DialogAttribution: React.FC = () => {
                 <div className="text-sm mt-0">
                     <li>Holiday dates provided by <Link className="hover:underline" href="https://github.com/commenthol/date-holidays" target="_blank" rel="noopener noreferrer">date-holidays</Link>. </li>
                     <li>Flag icons courtesy of <Link className="hover:underline" href="https://flagsapi.com/" target="_blank" rel="noopener noreferrer">Flags API</Link>.</li>
+                    <li>Favicon from <Link className="hover:underline" href="https://www.flaticon.com/free-icons/holidays" target="_blank" rel="noopener noreferrer">Freepik - Flaticon</Link>.</li>
                 </div>
                 <DialogFooter>
                 </DialogFooter>
