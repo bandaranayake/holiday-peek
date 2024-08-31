@@ -256,6 +256,10 @@ export const COUNTRIES = [
     name: "Liechtenstein",
   },
   {
+    countryCode: "LK",
+    name: "Sri Lanka",
+  },
+  {
     countryCode: "LS",
     name: "Lesotho",
   },
