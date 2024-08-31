@@ -2,91 +2,76 @@
   {
     "date": "2024-01-01",
     "localName": "Πρωτοχρονιά",
-    "name": "New Year's Day",
-    "countryCode": "GR"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Θεοφάνεια",
-    "name": "Epiphany",
-    "countryCode": "GR"
+    "name": "Epiphany"
   },
   {
     "date": "2024-03-18",
     "localName": "Καθαρά Δευτέρα",
-    "name": "Clean Monday",
-    "countryCode": "GR"
+    "name": "Clean Monday"
   },
   {
     "date": "2024-03-25",
     "localName": "Ευαγγελισμός της Θεοτόκου",
-    "name": "Annunciation",
-    "countryCode": "GR"
+    "name": "Annunciation"
   },
   {
     "date": "2024-03-25",
     "localName": "Εικοστή Πέμπτη Μαρτίου",
-    "name": "Independence Day",
-    "countryCode": "GR"
+    "name": "Independence Day"
   },
   {
     "date": "2024-05-03",
     "localName": "Μεγάλη Παρασκευή",
-    "name": "Good Friday",
-    "countryCode": "GR"
+    "name": "Good Friday"
   },
   {
     "date": "2024-05-05",
     "localName": "Κυριακή του Πάσχα",
-    "name": "Easter Sunday",
-    "countryCode": "GR"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-06",
     "localName": "Δευτέρα του Πάσχα",
-    "name": "Easter Monday",
-    "countryCode": "GR"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-07",
     "localName": "Εργατική Πρωτομαγιά",
-    "name": "Labour Day",
-    "countryCode": "GR"
+    "name": "Labour Day"
   },
   {
     "date": "2024-06-23",
     "localName": "Πεντηκοστή",
-    "name": "Pentecost",
-    "countryCode": "GR"
+    "name": "Pentecost"
   },
   {
     "date": "2024-06-24",
     "localName": "Δευτέρα Πεντηκοστής",
-    "name": "Whit Monday",
-    "countryCode": "GR"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-08-15",
     "localName": "Κοίμηση της Θεοτόκου",
-    "name": "Assumption Day",
-    "countryCode": "GR"
+    "name": "Assumption Day"
   },
   {
     "date": "2024-10-28",
     "localName": "Το Όχι",
-    "name": "Ochi Day",
-    "countryCode": "GR"
+    "name": "Ochi Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Χριστούγεννα",
-    "name": "Christmas Day",
-    "countryCode": "GR"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Σύναξις Υπεραγίας Θεοτόκου Μαρίας",
-    "name": "St. Stephen's Day",
-    "countryCode": "GR"
+    "name": "St. Stephen's Day"
   }
 ]

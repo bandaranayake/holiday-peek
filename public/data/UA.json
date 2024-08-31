@@ -2,73 +2,61 @@
   {
     "date": "2024-01-01",
     "localName": "Новий Рік",
-    "name": "New Year's Day",
-    "countryCode": "UA"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-07",
     "localName": "Різдво",
-    "name": "(Julian) Christmas",
-    "countryCode": "UA"
+    "name": "(Julian) Christmas"
   },
   {
     "date": "2024-03-08",
     "localName": "Міжнародний жіночий день",
-    "name": "International Women's Day",
-    "countryCode": "UA"
+    "name": "International Women's Day"
   },
   {
     "date": "2024-05-01",
     "localName": "День праці",
-    "name": "International Workers' Day",
-    "countryCode": "UA"
+    "name": "International Workers' Day"
   },
   {
     "date": "2024-05-05",
     "localName": "Великдень",
-    "name": "Easter Sunday",
-    "countryCode": "UA"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-09",
     "localName": "День перемоги над нацизмом у Другій світовій війні",
-    "name": "Victory day over Nazism in World War II",
-    "countryCode": "UA"
+    "name": "Victory day over Nazism in World War II"
   },
   {
     "date": "2024-06-23",
     "localName": "Трійця",
-    "name": "Pentecost",
-    "countryCode": "UA"
+    "name": "Pentecost"
   },
   {
     "date": "2024-06-28",
     "localName": "День Конституції",
-    "name": "Constitution Day",
-    "countryCode": "UA"
+    "name": "Constitution Day"
   },
   {
     "date": "2024-07-15",
     "localName": "Statehood Day",
-    "name": "Statehood Day",
-    "countryCode": "UA"
+    "name": "Statehood Day"
   },
   {
     "date": "2024-08-24",
     "localName": "День Незалежності",
-    "name": "Independence Day",
-    "countryCode": "UA"
+    "name": "Independence Day"
   },
   {
     "date": "2024-10-14",
     "localName": "День захисника України",
-    "name": "Defender of Ukraine Day",
-    "countryCode": "UA"
+    "name": "Defender of Ukraine Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Різдво",
-    "name": "(Gregorian and Revised Julian) Christmas",
-    "countryCode": "UA"
+    "name": "(Gregorian and Revised Julian) Christmas"
   }
 ]

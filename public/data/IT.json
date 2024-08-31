@@ -2,73 +2,61 @@
   {
     "date": "2024-01-01",
     "localName": "Capodanno",
-    "name": "New Year's Day",
-    "countryCode": "IT"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Epifania",
-    "name": "Epiphany",
-    "countryCode": "IT"
+    "name": "Epiphany"
   },
   {
     "date": "2024-03-31",
     "localName": "Pasqua",
-    "name": "Easter Sunday",
-    "countryCode": "IT"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "Lunedì dell'Angelo",
-    "name": "Easter Monday",
-    "countryCode": "IT"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-04-25",
     "localName": "Festa della Liberazione",
-    "name": "Liberation Day",
-    "countryCode": "IT"
+    "name": "Liberation Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Festa del Lavoro",
-    "name": "International Workers Day",
-    "countryCode": "IT"
+    "name": "International Workers Day"
   },
   {
     "date": "2024-06-02",
     "localName": "Festa della Repubblica",
-    "name": "Republic Day",
-    "countryCode": "IT"
+    "name": "Republic Day"
   },
   {
     "date": "2024-08-15",
     "localName": "Ferragosto o Assunzione",
-    "name": "Assumption Day",
-    "countryCode": "IT"
+    "name": "Assumption Day"
   },
   {
     "date": "2024-11-01",
     "localName": "Tutti i santi",
-    "name": "All Saints Day",
-    "countryCode": "IT"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-12-08",
     "localName": "Immacolata Concezione",
-    "name": "Immaculate Conception",
-    "countryCode": "IT"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-25",
     "localName": "Natale",
-    "name": "Christmas Day",
-    "countryCode": "IT"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Santo Stefano",
-    "name": "St. Stephen's Day",
-    "countryCode": "IT"
+    "name": "St. Stephen's Day"
   }
 ]

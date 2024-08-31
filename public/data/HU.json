@@ -2,79 +2,66 @@
   {
     "date": "2024-01-01",
     "localName": "Újév",
-    "name": "New Year's Day",
-    "countryCode": "HU"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-15",
     "localName": "Nemzeti ünnep",
-    "name": "1848 Revolution Memorial Day",
-    "countryCode": "HU"
+    "name": "1848 Revolution Memorial Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Nagypéntek",
-    "name": "Good Friday",
-    "countryCode": "HU"
+    "name": "Good Friday"
   },
   {
     "date": "2024-03-31",
     "localName": "Húsvétvasárnap",
-    "name": "Easter Sunday",
-    "countryCode": "HU"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "Húsvéthétfő",
-    "name": "Easter Monday",
-    "countryCode": "HU"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "A munka ünnepe",
-    "name": "Labour day",
-    "countryCode": "HU"
+    "name": "Labour day"
   },
   {
     "date": "2024-05-19",
     "localName": "Pünkösdvasárnap",
-    "name": "Pentecost",
-    "countryCode": "HU"
+    "name": "Pentecost"
   },
   {
     "date": "2024-05-20",
     "localName": "Pünkösdhétfő",
-    "name": "Whit Monday",
-    "countryCode": "HU"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-08-20",
     "localName": "Az államalapítás ünnepe",
-    "name": "State Foundation Day",
-    "countryCode": "HU"
+    "name": "State Foundation Day"
   },
   {
     "date": "2024-10-23",
     "localName": "Nemzeti ünnep",
-    "name": "1956 Revolution Memorial Day",
-    "countryCode": "HU"
+    "name": "1956 Revolution Memorial Day"
   },
   {
     "date": "2024-11-01",
     "localName": "Mindenszentek",
-    "name": "All Saints Day",
-    "countryCode": "HU"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Karácsony",
-    "name": "Christmas Day",
-    "countryCode": "HU"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Karácsony másnapja",
-    "name": "St. Stephen's Day",
-    "countryCode": "HU"
+    "name": "St. Stephen's Day"
   }
 ]

@@ -2,61 +2,51 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "NG"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "NG"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "NG"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Workers' Day",
-    "name": "Workers' Day",
-    "countryCode": "NG"
+    "name": "Workers' Day"
   },
   {
     "date": "2024-05-27",
     "localName": "Children's Day",
-    "name": "Children's Day",
-    "countryCode": "NG"
+    "name": "Children's Day"
   },
   {
     "date": "2024-06-12",
     "localName": "Democracy Day",
-    "name": "Democracy Day",
-    "countryCode": "NG"
+    "name": "Democracy Day"
   },
   {
     "date": "2024-10-01",
     "localName": "National Day",
-    "name": "National Day",
-    "countryCode": "NG"
+    "name": "National Day"
   },
   {
     "date": "2024-11-01",
     "localName": "National Youth Day",
-    "name": "National Youth Day",
-    "countryCode": "NG"
+    "name": "National Youth Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "NG"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Boxing Day",
-    "name": "Boxing Day",
-    "countryCode": "NG"
+    "name": "Boxing Day"
   }
 ]

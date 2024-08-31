@@ -2,73 +2,61 @@
   {
     "date": "2024-01-01",
     "localName": "Нова Година, Nova Godina",
-    "name": "New Year's Day",
-    "countryCode": "MK"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-07",
     "localName": "Прв ден Божик, Prv den Božik",
-    "name": "Christmas Day",
-    "countryCode": "MK"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Ден на трудот, Den na trudot",
-    "name": "Labour Day",
-    "countryCode": "MK"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-03",
     "localName": "Велики Петок, Veliki Petok",
-    "name": "Good Friday",
-    "countryCode": "MK"
+    "name": "Good Friday"
   },
   {
     "date": "2024-05-05",
     "localName": "Прв ден Велигден, Prv den Veligden",
-    "name": "Easter Sunday",
-    "countryCode": "MK"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-06",
     "localName": "Втор ден Велигден, Vtor den Veligden",
-    "name": "Easter Monday",
-    "countryCode": "MK"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-24",
     "localName": "Св. Кирил и Методиј, Ден на сèсловенските просветители",
-    "name": "Saints Cyril and Methodius Day",
-    "countryCode": "MK"
+    "name": "Saints Cyril and Methodius Day"
   },
   {
     "date": "2024-08-02",
     "localName": "Ден на Републиката, Den na Republikata",
-    "name": "Day of the Republic",
-    "countryCode": "MK"
+    "name": "Day of the Republic"
   },
   {
     "date": "2024-09-08",
     "localName": "Ден на независноста, Den na nezavisnosta",
-    "name": "Independence Day",
-    "countryCode": "MK"
+    "name": "Independence Day"
   },
   {
     "date": "2024-10-11",
     "localName": "Ден на востанието, Den na vostanieto",
-    "name": "Revolution Day",
-    "countryCode": "MK"
+    "name": "Revolution Day"
   },
   {
     "date": "2024-10-23",
     "localName": "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba",
-    "name": "Day of the Macedonian Revolutionary Struggle",
-    "countryCode": "MK"
+    "name": "Day of the Macedonian Revolutionary Struggle"
   },
   {
     "date": "2024-12-08",
     "localName": "Св. Климент Охридски, Sv. Kliment Ohridski",
-    "name": "Saint Clement of Ohrid Day",
-    "countryCode": "MK"
+    "name": "Saint Clement of Ohrid Day"
   }
 ]

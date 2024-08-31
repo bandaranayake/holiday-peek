@@ -2,109 +2,91 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "SM"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Epiphany",
-    "name": "Epiphany",
-    "countryCode": "SM"
+    "name": "Epiphany"
   },
   {
     "date": "2024-02-05",
     "localName": "Feast of Saint Agatha",
-    "name": "Feast of Saint Agatha",
-    "countryCode": "SM"
+    "name": "Feast of Saint Agatha"
   },
   {
     "date": "2024-03-25",
     "localName": "Anniversary of the Arengo",
-    "name": "Anniversary of the Arengo",
-    "countryCode": "SM"
+    "name": "Anniversary of the Arengo"
   },
   {
     "date": "2024-03-31",
     "localName": "Easter Sunday",
-    "name": "Easter Sunday",
-    "countryCode": "SM"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "SM"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Labour Day",
-    "name": "Labour Day",
-    "countryCode": "SM"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-30",
     "localName": "Corpus Christi",
-    "name": "Corpus Christi",
-    "countryCode": "SM"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-07-28",
     "localName": "Liberation from Fascism",
-    "name": "Liberation from Fascism",
-    "countryCode": "SM"
+    "name": "Liberation from Fascism"
   },
   {
     "date": "2024-08-15",
     "localName": "Ferragosto (Assumption)",
-    "name": "Ferragosto (Assumption)",
-    "countryCode": "SM"
+    "name": "Ferragosto (Assumption)"
   },
   {
     "date": "2024-09-03",
     "localName": "The Feast of San Marino and the Republic",
-    "name": "The Feast of San Marino and the Republic",
-    "countryCode": "SM"
+    "name": "The Feast of San Marino and the Republic"
   },
   {
     "date": "2024-11-01",
     "localName": "All Saints' Day",
-    "name": "All Saints' Day",
-    "countryCode": "SM"
+    "name": "All Saints' Day"
   },
   {
     "date": "2024-11-02",
     "localName": "Commemoration of all those who died at war",
-    "name": "Commemoration of all those who died at war",
-    "countryCode": "SM"
+    "name": "Commemoration of all those who died at war"
   },
   {
     "date": "2024-12-08",
     "localName": "Immaculate Conception",
-    "name": "Immaculate Conception",
-    "countryCode": "SM"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-24",
     "localName": "Christmas Eve",
-    "name": "Christmas Eve",
-    "countryCode": "SM"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "SM"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "St. Stephen's Day",
-    "name": "St. Stephen's Day",
-    "countryCode": "SM"
+    "name": "St. Stephen's Day"
   },
   {
     "date": "2024-12-31",
     "localName": "New Year's Eve",
-    "name": "New Year's Eve",
-    "countryCode": "SM"
+    "name": "New Year's Eve"
   }
 ]

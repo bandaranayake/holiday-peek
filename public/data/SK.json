@@ -2,91 +2,76 @@
   {
     "date": "2024-01-01",
     "localName": "Deň vzniku Slovenskej republiky",
-    "name": "Day of the Establishment of the Slovak Republic",
-    "countryCode": "SK"
+    "name": "Day of the Establishment of the Slovak Republic"
   },
   {
     "date": "2024-01-06",
     "localName": "Zjavenie Pána",
-    "name": "Epiphany",
-    "countryCode": "SK"
+    "name": "Epiphany"
   },
   {
     "date": "2024-03-29",
     "localName": "Veľkonočný piatok",
-    "name": "Good Friday",
-    "countryCode": "SK"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Veľkonočný pondelok",
-    "name": "Easter Monday",
-    "countryCode": "SK"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Sviatok práce",
-    "name": "International Workers' Day",
-    "countryCode": "SK"
+    "name": "International Workers' Day"
   },
   {
     "date": "2024-05-08",
     "localName": "Deň víťazstva nad fašizmom",
-    "name": "Day of victory over fascism",
-    "countryCode": "SK"
+    "name": "Day of victory over fascism"
   },
   {
     "date": "2024-07-05",
     "localName": "Sviatok svätého Cyrila a svätého Metoda",
-    "name": "St. Cyril and Methodius Day",
-    "countryCode": "SK"
+    "name": "St. Cyril and Methodius Day"
   },
   {
     "date": "2024-08-29",
     "localName": "Výročie Slovenského národného povstania",
-    "name": "Slovak National Uprising anniversary",
-    "countryCode": "SK"
+    "name": "Slovak National Uprising anniversary"
   },
   {
     "date": "2024-09-01",
     "localName": "Deň Ústavy Slovenskej republiky",
-    "name": "Day of the Constitution of the Slovak Republic",
-    "countryCode": "SK"
+    "name": "Day of the Constitution of the Slovak Republic"
   },
   {
     "date": "2024-09-15",
     "localName": "Sedembolestná Panna Mária",
-    "name": "Day of Our Lady of the Seven Sorrows",
-    "countryCode": "SK"
+    "name": "Day of Our Lady of the Seven Sorrows"
   },
   {
     "date": "2024-11-01",
     "localName": "Sviatok Všetkých svätých",
-    "name": "All Saints’ Day",
-    "countryCode": "SK"
+    "name": "All Saints’ Day"
   },
   {
     "date": "2024-11-17",
     "localName": "Deň boja za slobodu a demokraciu",
-    "name": "Struggle for Freedom and Democracy Day",
-    "countryCode": "SK"
+    "name": "Struggle for Freedom and Democracy Day"
   },
   {
     "date": "2024-12-24",
     "localName": "Štedrý deň",
-    "name": "Christmas Eve",
-    "countryCode": "SK"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Prvý sviatok vianočný",
-    "name": "Christmas Day",
-    "countryCode": "SK"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Druhý sviatok vianočný",
-    "name": "St. Stephen's Day",
-    "countryCode": "SK"
+    "name": "St. Stephen's Day"
   }
 ]

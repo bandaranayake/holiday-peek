@@ -2,109 +2,91 @@
   {
     "date": "2024-01-01",
     "localName": "Año Nuevo",
-    "name": "New Year's Day",
-    "countryCode": "CO"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-08",
     "localName": "Día de los Reyes Magos",
-    "name": "Epiphany",
-    "countryCode": "CO"
+    "name": "Epiphany"
   },
   {
     "date": "2024-03-25",
     "localName": "Día de San José",
-    "name": "Saint Joseph's Day",
-    "countryCode": "CO"
+    "name": "Saint Joseph's Day"
   },
   {
     "date": "2024-03-28",
     "localName": "Jueves Santo",
-    "name": "Maundy Thursday",
-    "countryCode": "CO"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Viernes Santo",
-    "name": "Good Friday",
-    "countryCode": "CO"
+    "name": "Good Friday"
   },
   {
     "date": "2024-05-01",
     "localName": "Primero de Mayo",
-    "name": "Labour Day",
-    "countryCode": "CO"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-13",
     "localName": "Ascensión del señor",
-    "name": "Ascension Day",
-    "countryCode": "CO"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-06-03",
     "localName": "Corpus Christi",
-    "name": "Corpus Christi",
-    "countryCode": "CO"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-06-10",
     "localName": "Sagrado Corazón",
-    "name": "Sacred Heart",
-    "countryCode": "CO"
+    "name": "Sacred Heart"
   },
   {
     "date": "2024-07-01",
     "localName": "San Pedro y San Pablo",
-    "name": "Saint Peter and Saint Paul",
-    "countryCode": "CO"
+    "name": "Saint Peter and Saint Paul"
   },
   {
     "date": "2024-07-20",
     "localName": "Declaracion de la Independencia de Colombia",
-    "name": "Declaration of Independence",
-    "countryCode": "CO"
+    "name": "Declaration of Independence"
   },
   {
     "date": "2024-08-07",
     "localName": "Batalla de Boyacá",
-    "name": "Battle of Boyacá",
-    "countryCode": "CO"
+    "name": "Battle of Boyacá"
   },
   {
     "date": "2024-08-19",
     "localName": "La Asunción",
-    "name": "Assumption of Mary",
-    "countryCode": "CO"
+    "name": "Assumption of Mary"
   },
   {
     "date": "2024-10-14",
     "localName": "Día de la Raza",
-    "name": "Columbus Day",
-    "countryCode": "CO"
+    "name": "Columbus Day"
   },
   {
     "date": "2024-11-04",
     "localName": "Dia de los Santos",
-    "name": "All Saints’ Day",
-    "countryCode": "CO"
+    "name": "All Saints’ Day"
   },
   {
     "date": "2024-11-11",
     "localName": "Independencia de Cartagena",
-    "name": "Independence of Cartagena",
-    "countryCode": "CO"
+    "name": "Independence of Cartagena"
   },
   {
     "date": "2024-12-08",
     "localName": "La Inmaculada Concepción",
-    "name": "Immaculate Conception",
-    "countryCode": "CO"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-25",
     "localName": "Navidad",
-    "name": "Christmas Day",
-    "countryCode": "CO"
+    "name": "Christmas Day"
   }
 ]

@@ -2,61 +2,51 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "JM"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-02-14",
     "localName": "Ash Wednesday",
-    "name": "Ash Wednesday",
-    "countryCode": "JM"
+    "name": "Ash Wednesday"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "JM"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "JM"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-23",
     "localName": "Labour Day",
-    "name": "Labour Day",
-    "countryCode": "JM"
+    "name": "Labour Day"
   },
   {
     "date": "2024-08-01",
     "localName": "Emancipation Day",
-    "name": "Emancipation Day",
-    "countryCode": "JM"
+    "name": "Emancipation Day"
   },
   {
     "date": "2024-08-06",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "JM"
+    "name": "Independence Day"
   },
   {
     "date": "2024-10-16",
     "localName": "National Heroes Day",
-    "name": "National Heroes Day",
-    "countryCode": "JM"
+    "name": "National Heroes Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "JM"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Boxing Day",
-    "name": "St. Stephen's Day",
-    "countryCode": "JM"
+    "name": "St. Stephen's Day"
   }
 ]

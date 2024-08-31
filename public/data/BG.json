@@ -2,85 +2,71 @@
   {
     "date": "2024-01-01",
     "localName": "Нова година",
-    "name": "New Year's Day",
-    "countryCode": "BG"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-04",
     "localName": "Ден на oсвобождението на България от Oсманско робство",
-    "name": "Liberation Day",
-    "countryCode": "BG"
+    "name": "Liberation Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Ден на труда и на международната работническа солидарност",
-    "name": "International Workers' Day",
-    "countryCode": "BG"
+    "name": "International Workers' Day"
   },
   {
     "date": "2024-05-03",
     "localName": "Разпети петък",
-    "name": "Good Friday",
-    "countryCode": "BG"
+    "name": "Good Friday"
   },
   {
     "date": "2024-05-04",
     "localName": "Велика събота",
-    "name": "Holy Saturday",
-    "countryCode": "BG"
+    "name": "Holy Saturday"
   },
   {
     "date": "2024-05-05",
     "localName": "Великден",
-    "name": "Easter Sunday",
-    "countryCode": "BG"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-06",
     "localName": "Гергьовден, ден на храбростта и Българската армия",
-    "name": "Saint George's Day",
-    "countryCode": "BG"
+    "name": "Saint George's Day"
   },
   {
     "date": "2024-05-06",
     "localName": "Велики понеделник",
-    "name": "Easter Monday",
-    "countryCode": "BG"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-24",
     "localName": "Ден на Българската просвета и култура и на славянската писменост",
-    "name": "Saints Cyril and Methodius Day",
-    "countryCode": "BG"
+    "name": "Saints Cyril and Methodius Day"
   },
   {
     "date": "2024-09-06",
     "localName": "Ден на съединението",
-    "name": "Unification Day",
-    "countryCode": "BG"
+    "name": "Unification Day"
   },
   {
     "date": "2024-09-23",
     "localName": "Ден на независимостта на България",
-    "name": "Independence Day",
-    "countryCode": "BG"
+    "name": "Independence Day"
   },
   {
     "date": "2024-12-24",
     "localName": "Бъдни вечер",
-    "name": "Christmas Eve",
-    "countryCode": "BG"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Рождество Христово",
-    "name": "Christmas Day",
-    "countryCode": "BG"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Рождество Христово",
-    "name": "Second day of Christmas",
-    "countryCode": "BG"
+    "name": "Second day of Christmas"
   }
 ]

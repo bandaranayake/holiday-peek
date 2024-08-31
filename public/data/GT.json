@@ -2,79 +2,66 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "GT"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-28",
     "localName": "Maundy Thursday",
-    "name": "Maundy Thursday",
-    "countryCode": "GT"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "GT"
+    "name": "Good Friday"
   },
   {
     "date": "2024-03-30",
     "localName": "Holy Saturday",
-    "name": "Holy Saturday",
-    "countryCode": "GT"
+    "name": "Holy Saturday"
   },
   {
     "date": "2024-03-31",
     "localName": "Easter Sunday",
-    "name": "Easter Sunday",
-    "countryCode": "GT"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-01",
     "localName": "International Workers' Day",
-    "name": "International Workers' Day",
-    "countryCode": "GT"
+    "name": "International Workers' Day"
   },
   {
     "date": "2024-06-30",
     "localName": "Army Day",
-    "name": "Army Day",
-    "countryCode": "GT"
+    "name": "Army Day"
   },
   {
     "date": "2024-09-15",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "GT"
+    "name": "Independence Day"
   },
   {
     "date": "2024-10-20",
     "localName": "Revolution Day",
-    "name": "Revolution Day",
-    "countryCode": "GT"
+    "name": "Revolution Day"
   },
   {
     "date": "2024-11-01",
     "localName": "All Saints' Day",
-    "name": "All Saints' Day",
-    "countryCode": "GT"
+    "name": "All Saints' Day"
   },
   {
     "date": "2024-12-24",
     "localName": "Christmas Eve",
-    "name": "Christmas Eve",
-    "countryCode": "GT"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "GT"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-31",
     "localName": "New Year's Eve",
-    "name": "New Year's Eve",
-    "countryCode": "GT"
+    "name": "New Year's Eve"
   }
 ]

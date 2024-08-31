@@ -2,127 +2,106 @@
   {
     "date": "2024-01-01",
     "localName": "Neujahr",
-    "name": "New Year's Day",
-    "countryCode": "LI"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-02",
     "localName": "Berchtoldstag",
-    "name": "St. Berchtold's Day",
-    "countryCode": "LI"
+    "name": "St. Berchtold's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Heilige Drei Könige",
-    "name": "Epiphany",
-    "countryCode": "LI"
+    "name": "Epiphany"
   },
   {
     "date": "2024-02-02",
     "localName": "Mariä Lichtmess",
-    "name": "Candlemas",
-    "countryCode": "LI"
+    "name": "Candlemas"
   },
   {
     "date": "2024-02-13",
     "localName": "Fasnachtsdienstag",
-    "name": "Shrove Tuesday",
-    "countryCode": "LI"
+    "name": "Shrove Tuesday"
   },
   {
     "date": "2024-03-19",
     "localName": "Josefstag",
-    "name": "Saint Joseph's Day",
-    "countryCode": "LI"
+    "name": "Saint Joseph's Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Karfreitag",
-    "name": "Good Friday",
-    "countryCode": "LI"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Ostermontag",
-    "name": "Easter Monday",
-    "countryCode": "LI"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Tag der Arbeit",
-    "name": "Labour Day",
-    "countryCode": "LI"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-09",
     "localName": "Auffahrt",
-    "name": "Ascension Day",
-    "countryCode": "LI"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-05-19",
     "localName": "Pfingstsonntag",
-    "name": "Pentecost",
-    "countryCode": "LI"
+    "name": "Pentecost"
   },
   {
     "date": "2024-05-20",
     "localName": "Pfingstmontag",
-    "name": "Whit Monday",
-    "countryCode": "LI"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-05-30",
     "localName": "Fronleichnam",
-    "name": "Corpus Christi",
-    "countryCode": "LI"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-08-15",
     "localName": "Staatsfeiertag",
-    "name": "National Holiday",
-    "countryCode": "LI"
+    "name": "National Holiday"
   },
   {
     "date": "2024-09-08",
     "localName": "Maria Geburt",
-    "name": "Nativity of Our Lady",
-    "countryCode": "LI"
+    "name": "Nativity of Our Lady"
   },
   {
     "date": "2024-11-01",
     "localName": "Allerheiligen",
-    "name": "All Saints Day",
-    "countryCode": "LI"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-12-08",
     "localName": "Mariä Empfängnis",
-    "name": "Immaculate Conception",
-    "countryCode": "LI"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-24",
     "localName": "Heiliger Abend",
-    "name": "Christmas Eve",
-    "countryCode": "LI"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Weihnachten",
-    "name": "Christmas Day",
-    "countryCode": "LI"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Stephanstag",
-    "name": "St. Stephen's Day",
-    "countryCode": "LI"
+    "name": "St. Stephen's Day"
   },
   {
     "date": "2024-12-31",
     "localName": "Silvester",
-    "name": "New Year's Eve",
-    "countryCode": "LI"
+    "name": "New Year's Eve"
   }
 ]

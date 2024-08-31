@@ -2,85 +2,71 @@
   {
     "date": "2024-01-01",
     "localName": "Viti i Ri",
-    "name": "New Year's Day",
-    "countryCode": "AL"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-02",
     "localName": "Viti i Ri",
-    "name": "New Year's Day",
-    "countryCode": "AL"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-14",
     "localName": "Dita e Verës",
-    "name": "Summer Day",
-    "countryCode": "AL"
+    "name": "Summer Day"
   },
   {
     "date": "2024-03-22",
     "localName": "Dita e Sulltan Nevruzit",
-    "name": "Nowruz",
-    "countryCode": "AL"
+    "name": "Nowruz"
   },
   {
     "date": "2024-03-31",
     "localName": "Pashkët Katolike",
-    "name": "Easter Sunday",
-    "countryCode": "AL"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "E hëna e Pashkëve Katolike",
-    "name": "Easter Monday",
-    "countryCode": "AL"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Dita Ndërkombëtare e Punonjësve",
-    "name": "May Day",
-    "countryCode": "AL"
+    "name": "May Day"
   },
   {
     "date": "2024-05-05",
     "localName": "Pashkët Ortodokse",
-    "name": "Easter Sunday",
-    "countryCode": "AL"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-06",
     "localName": "E hëna e Pashkëve Ortodokse",
-    "name": "Easter Monday",
-    "countryCode": "AL"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-09-05",
     "localName": "Dita e Nënë Terezës",
-    "name": "Mother Teresa Day",
-    "countryCode": "AL"
+    "name": "Mother Teresa Day"
   },
   {
     "date": "2024-11-28",
     "localName": "Dita e Pavarësisë",
-    "name": "Independence Day",
-    "countryCode": "AL"
+    "name": "Independence Day"
   },
   {
     "date": "2024-11-29",
     "localName": "Dita e Çlirimit",
-    "name": "Liberation Day",
-    "countryCode": "AL"
+    "name": "Liberation Day"
   },
   {
     "date": "2024-12-09",
     "localName": "Dita Kombëtare e Rinisë",
-    "name": "Youth Day",
-    "countryCode": "AL"
+    "name": "Youth Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Krishtlindjet",
-    "name": "Christmas Day",
-    "countryCode": "AL"
+    "name": "Christmas Day"
   }
 ]

@@ -2,85 +2,71 @@
   {
     "date": "2024-01-01",
     "localName": "Año Nuevo",
-    "name": "New Year's Day",
-    "countryCode": "PE"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-28",
     "localName": "Jueves Santo",
-    "name": "Holy Thursday",
-    "countryCode": "PE"
+    "name": "Holy Thursday"
   },
   {
     "date": "2024-03-28",
     "localName": "Jueves Santo",
-    "name": "Maundy Thursday",
-    "countryCode": "PE"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Viernes Santo",
-    "name": "Good Friday",
-    "countryCode": "PE"
+    "name": "Good Friday"
   },
   {
     "date": "2024-03-31",
     "localName": "Domingo Santo",
-    "name": "Easter Sunday",
-    "countryCode": "PE"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-05-01",
     "localName": "Día del Trabajo",
-    "name": "International Workers' Day",
-    "countryCode": "PE"
+    "name": "International Workers' Day"
   },
   {
     "date": "2024-06-29",
     "localName": "Día de San Pedro y San Pablo",
-    "name": "St. Peter and St. Paul",
-    "countryCode": "PE"
+    "name": "St. Peter and St. Paul"
   },
   {
     "date": "2024-07-28",
     "localName": "Día de la Independencia",
-    "name": "Independence Day",
-    "countryCode": "PE"
+    "name": "Independence Day"
   },
   {
     "date": "2024-07-29",
     "localName": "Día de la Independencia",
-    "name": "Independence Day",
-    "countryCode": "PE"
+    "name": "Independence Day"
   },
   {
     "date": "2024-08-30",
     "localName": "Día de Santa Rosa de Lima",
-    "name": "Santa Rosa de Lima",
-    "countryCode": "PE"
+    "name": "Santa Rosa de Lima"
   },
   {
     "date": "2024-10-08",
     "localName": "Combate de Angamos",
-    "name": "Battle of Angamos",
-    "countryCode": "PE"
+    "name": "Battle of Angamos"
   },
   {
     "date": "2024-11-01",
     "localName": "Día de Todos los Santos",
-    "name": "All Saints Day",
-    "countryCode": "PE"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-12-08",
     "localName": "Inmaculada Concepción",
-    "name": "Immaculate Conception",
-    "countryCode": "PE"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-25",
     "localName": "Navidad",
-    "name": "Christmas Day",
-    "countryCode": "PE"
+    "name": "Christmas Day"
   }
 ]

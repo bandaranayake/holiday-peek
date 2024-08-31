@@ -2,79 +2,66 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "DO"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Dia de Reyes",
-    "name": "Day of Kings",
-    "countryCode": "DO"
+    "name": "Day of Kings"
   },
   {
     "date": "2024-01-21",
     "localName": "Our Lady of Altagracia",
-    "name": "Our Lady of Altagracia",
-    "countryCode": "DO"
+    "name": "Our Lady of Altagracia"
   },
   {
     "date": "2024-01-26",
     "localName": "Duarte's Birthday",
-    "name": "Duarte's Birthday",
-    "countryCode": "DO"
+    "name": "Duarte's Birthday"
   },
   {
     "date": "2024-02-27",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "DO"
+    "name": "Independence Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "DO"
+    "name": "Good Friday"
   },
   {
     "date": "2024-05-01",
     "localName": "Labour Day",
-    "name": "Labour Day",
-    "countryCode": "DO"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-28",
     "localName": "Mother's Day",
-    "name": "Mother's Day",
-    "countryCode": "DO"
+    "name": "Mother's Day"
   },
   {
     "date": "2024-05-30",
     "localName": "Corpus Christi",
-    "name": "Corpus Christi",
-    "countryCode": "DO"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-08-16",
     "localName": "Restoration Day",
-    "name": "Restoration Day",
-    "countryCode": "DO"
+    "name": "Restoration Day"
   },
   {
     "date": "2024-09-24",
     "localName": "Nuestra Senora de las Mercedes",
-    "name": "Our Lady of Mercy",
-    "countryCode": "DO"
+    "name": "Our Lady of Mercy"
   },
   {
     "date": "2024-11-06",
     "localName": "Constitution Day",
-    "name": "Constitution Day",
-    "countryCode": "DO"
+    "name": "Constitution Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "DO"
+    "name": "Christmas Day"
   }
 ]

@@ -2,61 +2,51 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "IM"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "IM"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "IM"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-06",
     "localName": "Early May Bank Holiday",
-    "name": "Early May Bank Holiday",
-    "countryCode": "IM"
+    "name": "Early May Bank Holiday"
   },
   {
     "date": "2024-05-27",
     "localName": "Spring Bank Holiday",
-    "name": "Spring Bank Holiday",
-    "countryCode": "IM"
+    "name": "Spring Bank Holiday"
   },
   {
     "date": "2024-06-07",
     "localName": "Senior Race Day",
-    "name": "Senior Race Day",
-    "countryCode": "IM"
+    "name": "Senior Race Day"
   },
   {
     "date": "2024-07-05",
     "localName": "Tynwald Day",
-    "name": "Tynwald Day",
-    "countryCode": "IM"
+    "name": "Tynwald Day"
   },
   {
     "date": "2024-08-26",
     "localName": "Late Summer Bank Holiday",
-    "name": "Late Summer Bank Holiday",
-    "countryCode": "IM"
+    "name": "Late Summer Bank Holiday"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "IM"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "St. Stephen's Day",
-    "name": "Boxing Day",
-    "countryCode": "IM"
+    "name": "Boxing Day"
   }
 ]

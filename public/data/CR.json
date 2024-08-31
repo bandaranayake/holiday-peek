@@ -2,67 +2,56 @@
   {
     "date": "2024-01-01",
     "localName": "Año Nuevo",
-    "name": "New Year's Day",
-    "countryCode": "CR"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-28",
     "localName": "Jueves Santo",
-    "name": "Maundy Thursday",
-    "countryCode": "CR"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Viernes Santo",
-    "name": "Good Friday",
-    "countryCode": "CR"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-11",
     "localName": "Día de Juan Santamaría",
-    "name": "Juan Santamaría Day",
-    "countryCode": "CR"
+    "name": "Juan Santamaría Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Día Internacional del Trabajo",
-    "name": "Labour Day",
-    "countryCode": "CR"
+    "name": "Labour Day"
   },
   {
     "date": "2024-07-25",
     "localName": "Anexión del Partido de Nicoya a Costa Rica",
-    "name": "Annexation of the Party of Nicoya to Costa Rica",
-    "countryCode": "CR"
+    "name": "Annexation of the Party of Nicoya to Costa Rica"
   },
   {
     "date": "2024-08-02",
     "localName": "Fiesta de Nuestra Señora de los Ángeles",
-    "name": "Feast of Our Lady of the Angels",
-    "countryCode": "CR"
+    "name": "Feast of Our Lady of the Angels"
   },
   {
     "date": "2024-08-15",
     "localName": "Día de la Madre",
-    "name": "Mother's Day",
-    "countryCode": "CR"
+    "name": "Mother's Day"
   },
   {
     "date": "2024-09-15",
     "localName": "Día de la Independencia",
-    "name": "Independence Day",
-    "countryCode": "CR"
+    "name": "Independence Day"
   },
   {
     "date": "2024-12-01",
     "localName": "Día de la Abolición del Ejército",
-    "name": "Army Abolition Day",
-    "countryCode": "CR"
+    "name": "Army Abolition Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Navidad",
-    "name": "Christmas Day",
-    "countryCode": "CR"
+    "name": "Christmas Day"
   }
 ]

@@ -2,55 +2,46 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "GG"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "GG"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "GG"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Early May Bank Holiday",
-    "name": "Early May Bank Holiday",
-    "countryCode": "GG"
+    "name": "Early May Bank Holiday"
   },
   {
     "date": "2024-05-09",
     "localName": "Liberation Day",
-    "name": "Liberation Day",
-    "countryCode": "GG"
+    "name": "Liberation Day"
   },
   {
     "date": "2024-05-27",
     "localName": "Spring Bank Holiday",
-    "name": "Spring Bank Holiday",
-    "countryCode": "GG"
+    "name": "Spring Bank Holiday"
   },
   {
     "date": "2024-08-26",
     "localName": "Summer Bank Holiday",
-    "name": "Summer Bank Holiday",
-    "countryCode": "GG"
+    "name": "Summer Bank Holiday"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "GG"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "St. Stephen's Day",
-    "name": "Boxing Day",
-    "countryCode": "GG"
+    "name": "Boxing Day"
   }
 ]

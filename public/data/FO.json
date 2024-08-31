@@ -2,109 +2,91 @@
   {
     "date": "2024-01-01",
     "localName": "Nýggjársdagur",
-    "name": "New Year's Day",
-    "countryCode": "FO"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-28",
     "localName": "Skírhósdagur",
-    "name": "Maundy Thursday",
-    "countryCode": "FO"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Langifríggjadagur",
-    "name": "Good Friday",
-    "countryCode": "FO"
+    "name": "Good Friday"
   },
   {
     "date": "2024-03-31",
     "localName": "Páskadagur",
-    "name": "Easter Sunday",
-    "countryCode": "FO"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "2. Páskadagur",
-    "name": "Easter Monday",
-    "countryCode": "FO"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-04-25",
     "localName": "Flaggdagur",
-    "name": "National Flag Day",
-    "countryCode": "FO"
+    "name": "National Flag Day"
   },
   {
     "date": "2024-04-26",
     "localName": "Dýri biðidagur",
-    "name": "General Prayer Day",
-    "countryCode": "FO"
+    "name": "General Prayer Day"
   },
   {
     "date": "2024-04-26",
     "localName": "Dýri biðidagur",
-    "name": "General Prayer Day",
-    "countryCode": "FO"
+    "name": "General Prayer Day"
   },
   {
     "date": "2024-05-09",
     "localName": "Kristi himmalsferðar dagur",
-    "name": "Ascension Day",
-    "countryCode": "FO"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-05-19",
     "localName": "Hvítasunnudagur",
-    "name": "Pentecost",
-    "countryCode": "FO"
+    "name": "Pentecost"
   },
   {
     "date": "2024-05-20",
     "localName": "2. Hvítasunnudagur",
-    "name": "Whit Monday",
-    "countryCode": "FO"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-06-05",
     "localName": "Grundlógardagur Danmarkar",
-    "name": "Constitution Day",
-    "countryCode": "FO"
+    "name": "Constitution Day"
   },
   {
     "date": "2024-07-28",
     "localName": "Ólavsøkuaftan",
-    "name": "Saint Olav's Eve",
-    "countryCode": "FO"
+    "name": "Saint Olav's Eve"
   },
   {
     "date": "2024-07-29",
     "localName": "Ólavsøkudagur",
-    "name": "Saint Olav's Day",
-    "countryCode": "FO"
+    "name": "Saint Olav's Day"
   },
   {
     "date": "2024-12-24",
     "localName": "Jólaaftanskvøld",
-    "name": "Christmas Eve",
-    "countryCode": "FO"
+    "name": "Christmas Eve"
   },
   {
     "date": "2024-12-25",
     "localName": "Jóladagur",
-    "name": "Christmas Day",
-    "countryCode": "FO"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "2. Jóladagur",
-    "name": "St. Stephen's Day",
-    "countryCode": "FO"
+    "name": "St. Stephen's Day"
   },
   {
     "date": "2024-12-31",
     "localName": "Nýggjársaftan",
-    "name": "New Year's Eve",
-    "countryCode": "FO"
+    "name": "New Year's Eve"
   }
 ]

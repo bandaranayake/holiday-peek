@@ -2,61 +2,51 @@
   {
     "date": "2024-01-01",
     "localName": "Новы год",
-    "name": "New Year's Day",
-    "countryCode": "BY"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-02",
     "localName": "Новы год",
-    "name": "New Year's Day",
-    "countryCode": "BY"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-07",
     "localName": "Каляды праваслаўныя",
-    "name": "Orthodox Christmas Day",
-    "countryCode": "BY"
+    "name": "Orthodox Christmas Day"
   },
   {
     "date": "2024-03-08",
     "localName": "Мiжнародны жаночы дзень",
-    "name": "International Women's Day",
-    "countryCode": "BY"
+    "name": "International Women's Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Дзень працы",
-    "name": "Labour Day",
-    "countryCode": "BY"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-09",
     "localName": "Дзень Перамогi",
-    "name": "Victory Day",
-    "countryCode": "BY"
+    "name": "Victory Day"
   },
   {
     "date": "2024-05-14",
     "localName": "Радунiца",
-    "name": "Commemoration Day",
-    "countryCode": "BY"
+    "name": "Commemoration Day"
   },
   {
     "date": "2024-07-03",
     "localName": "Дзень Незалежнасцi",
-    "name": "Independence Day",
-    "countryCode": "BY"
+    "name": "Independence Day"
   },
   {
     "date": "2024-11-07",
     "localName": "Дзень Кастрычніцкай рэвалюцыі",
-    "name": "October Revolution Day",
-    "countryCode": "BY"
+    "name": "October Revolution Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Каляды каталiцкiя",
-    "name": "Catholic Christmas Day",
-    "countryCode": "BY"
+    "name": "Catholic Christmas Day"
   }
 ]

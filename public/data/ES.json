@@ -2,193 +2,161 @@
   {
     "date": "2024-01-01",
     "localName": "Año Nuevo",
-    "name": "New Year's Day",
-    "countryCode": "ES"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-06",
     "localName": "Día de Reyes / Epifanía del Señor",
-    "name": "Epiphany",
-    "countryCode": "ES"
+    "name": "Epiphany"
   },
   {
     "date": "2024-02-28",
     "localName": "Día de Andalucía",
-    "name": "Day of Andalucía",
-    "countryCode": "ES"
+    "name": "Day of Andalucía"
   },
   {
     "date": "2024-03-01",
     "localName": "Dia de les Illes Balears",
-    "name": "Day of the Balearic Islands",
-    "countryCode": "ES"
+    "name": "Day of the Balearic Islands"
   },
   {
     "date": "2024-03-28",
     "localName": "Jueves Santo",
-    "name": "Maundy Thursday",
-    "countryCode": "ES"
+    "name": "Maundy Thursday"
   },
   {
     "date": "2024-03-29",
     "localName": "Viernes Santo",
-    "name": "Good Friday",
-    "countryCode": "ES"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Lunes de Pascua",
-    "name": "Easter Monday",
-    "countryCode": "ES"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-04-23",
     "localName": "Día de Castilla y León",
-    "name": "Castile and León Day",
-    "countryCode": "ES"
+    "name": "Castile and León Day"
   },
   {
     "date": "2024-04-23",
     "localName": "San Jorge (Día de Aragón)",
-    "name": "Day of Aragón",
-    "countryCode": "ES"
+    "name": "Day of Aragón"
   },
   {
     "date": "2024-05-01",
     "localName": "Fiesta del trabajo",
-    "name": "Labour Day",
-    "countryCode": "ES"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-02",
     "localName": "Fiesta de la Comunidad de Madrid",
-    "name": "Day of Madrid",
-    "countryCode": "ES"
+    "name": "Day of Madrid"
   },
   {
     "date": "2024-05-17",
     "localName": "Día das Letras Galegas",
-    "name": "Galician Literature Day",
-    "countryCode": "ES"
+    "name": "Galician Literature Day"
   },
   {
     "date": "2024-05-30",
     "localName": "Corpus Christi",
-    "name": "Corpus Christi",
-    "countryCode": "ES"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-05-30",
     "localName": "Día de Canarias",
-    "name": "Day of the Canary Islands",
-    "countryCode": "ES"
+    "name": "Day of the Canary Islands"
   },
   {
     "date": "2024-05-31",
     "localName": "Día de la Región Castilla-La Mancha",
-    "name": "Day of Castilla-La Mancha",
-    "countryCode": "ES"
+    "name": "Day of Castilla-La Mancha"
   },
   {
     "date": "2024-06-09",
     "localName": "Día de La Rioja",
-    "name": "Day of La Rioja",
-    "countryCode": "ES"
+    "name": "Day of La Rioja"
   },
   {
     "date": "2024-06-09",
     "localName": "Día de la Región de Murcia",
-    "name": "Day of Murcia",
-    "countryCode": "ES"
+    "name": "Day of Murcia"
   },
   {
     "date": "2024-06-24",
     "localName": "Sant Joan",
-    "name": "St. John's Day",
-    "countryCode": "ES"
+    "name": "St. John's Day"
   },
   {
     "date": "2024-07-25",
     "localName": "Santiago Apóstol",
-    "name": "Santiago Apóstol",
-    "countryCode": "ES"
+    "name": "Santiago Apóstol"
   },
   {
     "date": "2024-07-28",
     "localName": "Día de las Instituciones de Cantabria",
-    "name": "Day of the Cantabrian Institutions",
-    "countryCode": "ES"
+    "name": "Day of the Cantabrian Institutions"
   },
   {
     "date": "2024-08-15",
     "localName": "Asunción",
-    "name": "Assumption",
-    "countryCode": "ES"
+    "name": "Assumption"
   },
   {
     "date": "2024-09-08",
     "localName": "Día de Asturias",
-    "name": "Day of Asturias",
-    "countryCode": "ES"
+    "name": "Day of Asturias"
   },
   {
     "date": "2024-09-08",
     "localName": "Día de Extremadura",
-    "name": "Day of Extremadura",
-    "countryCode": "ES"
+    "name": "Day of Extremadura"
   },
   {
     "date": "2024-09-11",
     "localName": "Diada Nacional de Catalunya",
-    "name": "National Day of Catalonia",
-    "countryCode": "ES"
+    "name": "National Day of Catalonia"
   },
   {
     "date": "2024-09-15",
     "localName": "La Bien Aparecida",
-    "name": "Regional Holiday",
-    "countryCode": "ES"
+    "name": "Regional Holiday"
   },
   {
     "date": "2024-10-09",
     "localName": "Dia de la Comunitat Valenciana",
-    "name": "Day of the Valencian Community",
-    "countryCode": "ES"
+    "name": "Day of the Valencian Community"
   },
   {
     "date": "2024-10-12",
     "localName": "Fiesta Nacional de España",
-    "name": "Fiesta Nacional de España",
-    "countryCode": "ES"
+    "name": "Fiesta Nacional de España"
   },
   {
     "date": "2024-11-01",
     "localName": "Día de todos los Santos",
-    "name": "All Saints Day",
-    "countryCode": "ES"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-12-06",
     "localName": "Día de la Constitución",
-    "name": "Constitution Day",
-    "countryCode": "ES"
+    "name": "Constitution Day"
   },
   {
     "date": "2024-12-08",
     "localName": "Inmaculada Concepción",
-    "name": "Immaculate Conception",
-    "countryCode": "ES"
+    "name": "Immaculate Conception"
   },
   {
     "date": "2024-12-25",
     "localName": "Navidad",
-    "name": "Christmas Day",
-    "countryCode": "ES"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "St. Stephen's Day",
-    "name": "Santiago Apóstol",
-    "countryCode": "ES"
+    "name": "Santiago Apóstol"
   }
 ]

@@ -2,67 +2,56 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "GA"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-12",
     "localName": "Renovation Day",
-    "name": "Renovation Day",
-    "countryCode": "GA"
+    "name": "Renovation Day"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "GA"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-04-17",
     "localName": "Women's Day",
-    "name": "Women's Day",
-    "countryCode": "GA"
+    "name": "Women's Day"
   },
   {
     "date": "2024-05-01",
     "localName": "Labour Day",
-    "name": "Labour Day",
-    "countryCode": "GA"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-06",
     "localName": "Martyr's Day",
-    "name": "Martyr's Day",
-    "countryCode": "GA"
+    "name": "Martyr's Day"
   },
   {
     "date": "2024-05-20",
     "localName": "Whit Monday",
-    "name": "Whit Monday",
-    "countryCode": "GA"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-08-15",
     "localName": "Assumption Day",
-    "name": "Assumption Day",
-    "countryCode": "GA"
+    "name": "Assumption Day"
   },
   {
     "date": "2024-08-17",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "GA"
+    "name": "Independence Day"
   },
   {
     "date": "2024-11-01",
     "localName": "All Saints' Day",
-    "name": "All Saints' Day",
-    "countryCode": "GA"
+    "name": "All Saints' Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Božić",
-    "name": "Christmas Day",
-    "countryCode": "GA"
+    "name": "Christmas Day"
   }
 ]

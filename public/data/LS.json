@@ -2,67 +2,56 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "LS"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-11",
     "localName": "Moshoeshoe Day",
-    "name": "Moshoeshoe Day",
-    "countryCode": "LS"
+    "name": "Moshoeshoe Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "LS"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "LS"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Workers' Day",
-    "name": "Workers' Day",
-    "countryCode": "LS"
+    "name": "Workers' Day"
   },
   {
     "date": "2024-05-09",
     "localName": "Ascension Day",
-    "name": "Ascension Day",
-    "countryCode": "LS"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-05-25",
     "localName": "Africa Day/ Heroes' Day",
-    "name": "Africa Day/ Heroes' Day",
-    "countryCode": "LS"
+    "name": "Africa Day/ Heroes' Day"
   },
   {
     "date": "2024-07-17",
     "localName": "King Letsie III's Birthday",
-    "name": "King Letsie III's Birthday",
-    "countryCode": "LS"
+    "name": "King Letsie III's Birthday"
   },
   {
     "date": "2024-10-04",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "LS"
+    "name": "Independence Day"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "LS"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "St. Stephen's Day",
-    "name": "Boxing Day",
-    "countryCode": "LS"
+    "name": "Boxing Day"
   }
 ]

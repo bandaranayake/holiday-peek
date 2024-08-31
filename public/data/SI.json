@@ -2,91 +2,76 @@
   {
     "date": "2024-01-01",
     "localName": "novo leto",
-    "name": "New Year's Day",
-    "countryCode": "SI"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-02",
     "localName": "novo leto",
-    "name": "New Year's Day",
-    "countryCode": "SI"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-02-08",
     "localName": "Prešernov dan",
-    "name": "Prešeren Day",
-    "countryCode": "SI"
+    "name": "Prešeren Day"
   },
   {
     "date": "2024-03-31",
     "localName": "velikonočna nedelja in ponedeljek",
-    "name": "Easter Sunday",
-    "countryCode": "SI"
+    "name": "Easter Sunday"
   },
   {
     "date": "2024-04-01",
     "localName": "velikonočna nedelja in ponedeljek",
-    "name": "Easter Monday",
-    "countryCode": "SI"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-04-27",
     "localName": "dan upora proti okupatorju",
-    "name": "Day of Uprising Against Occupation",
-    "countryCode": "SI"
+    "name": "Day of Uprising Against Occupation"
   },
   {
     "date": "2024-05-01",
     "localName": "praznik dela",
-    "name": "May Day Holiday",
-    "countryCode": "SI"
+    "name": "May Day Holiday"
   },
   {
     "date": "2024-05-02",
     "localName": "praznik dela",
-    "name": "May Day Holiday",
-    "countryCode": "SI"
+    "name": "May Day Holiday"
   },
   {
     "date": "2024-05-19",
     "localName": "binkoštna nedelja, binkošti",
-    "name": "Pentecost",
-    "countryCode": "SI"
+    "name": "Pentecost"
   },
   {
     "date": "2024-06-25",
     "localName": "dan državnosti",
-    "name": "Statehood Day",
-    "countryCode": "SI"
+    "name": "Statehood Day"
   },
   {
     "date": "2024-08-15",
     "localName": "Marijino vnebovzetje",
-    "name": "Assumption Day",
-    "countryCode": "SI"
+    "name": "Assumption Day"
   },
   {
     "date": "2024-10-31",
     "localName": "dan reformacije",
-    "name": "Reformation Day",
-    "countryCode": "SI"
+    "name": "Reformation Day"
   },
   {
     "date": "2024-11-01",
     "localName": "dan spomina na mrtve",
-    "name": "Day of the Dead",
-    "countryCode": "SI"
+    "name": "Day of the Dead"
   },
   {
     "date": "2024-12-25",
     "localName": "božič",
-    "name": "Christmas Day",
-    "countryCode": "SI"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "dan samostojnosti in enotnosti",
-    "name": "Independence and Unity Day",
-    "countryCode": "SI"
+    "name": "Independence and Unity Day"
   }
 ]

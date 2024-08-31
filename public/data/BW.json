@@ -2,67 +2,56 @@
   {
     "date": "2024-01-01",
     "localName": "New Year's Day",
-    "name": "New Year's Day",
-    "countryCode": "BW"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-03-29",
     "localName": "Good Friday",
-    "name": "Good Friday",
-    "countryCode": "BW"
+    "name": "Good Friday"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "BW"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Labour Day",
-    "name": "Labour Day",
-    "countryCode": "BW"
+    "name": "Labour Day"
   },
   {
     "date": "2024-05-09",
     "localName": "Ascension Day",
-    "name": "Ascension Day",
-    "countryCode": "BW"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-07-01",
     "localName": "Sir Seretse Khama Day",
-    "name": "Sir Seretse Khama Day",
-    "countryCode": "BW"
+    "name": "Sir Seretse Khama Day"
   },
   {
     "date": "2024-07-15",
     "localName": "Presidents' Day",
-    "name": "Presidents' Day",
-    "countryCode": "BW"
+    "name": "Presidents' Day"
   },
   {
     "date": "2024-09-30",
     "localName": "Independence Day",
-    "name": "Independence Day",
-    "countryCode": "BW"
+    "name": "Independence Day"
   },
   {
     "date": "2024-10-01",
     "localName": "Botswana Day holiday",
-    "name": "Botswana Day holiday",
-    "countryCode": "BW"
+    "name": "Botswana Day holiday"
   },
   {
     "date": "2024-12-25",
     "localName": "Christmas Day",
-    "name": "Christmas Day",
-    "countryCode": "BW"
+    "name": "Christmas Day"
   },
   {
     "date": "2024-12-26",
     "localName": "Boxing Day",
-    "name": "St. Stephen's Day",
-    "countryCode": "BW"
+    "name": "St. Stephen's Day"
   }
 ]

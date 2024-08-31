@@ -2,73 +2,61 @@
   {
     "date": "2024-01-01",
     "localName": "Le jour de l’An",
-    "name": "New Year's Day",
-    "countryCode": "MC"
+    "name": "New Year's Day"
   },
   {
     "date": "2024-01-27",
     "localName": "La Sainte Dévote",
-    "name": "Saint Devota's Day",
-    "countryCode": "MC"
+    "name": "Saint Devota's Day"
   },
   {
     "date": "2024-04-01",
     "localName": "Easter Monday",
-    "name": "Easter Monday",
-    "countryCode": "MC"
+    "name": "Easter Monday"
   },
   {
     "date": "2024-05-01",
     "localName": "Le 1er mai",
-    "name": "May Day",
-    "countryCode": "MC"
+    "name": "May Day"
   },
   {
     "date": "2024-05-09",
     "localName": "L’Ascension",
-    "name": "Ascension Day",
-    "countryCode": "MC"
+    "name": "Ascension Day"
   },
   {
     "date": "2024-05-20",
     "localName": "Le lundi de Pentecôte",
-    "name": "Whit Monday",
-    "countryCode": "MC"
+    "name": "Whit Monday"
   },
   {
     "date": "2024-05-30",
     "localName": "La Fête Dieu",
-    "name": "Corpus Christi",
-    "countryCode": "MC"
+    "name": "Corpus Christi"
   },
   {
     "date": "2024-08-15",
     "localName": "L'Assomption de Marie",
-    "name": "Assumption Day",
-    "countryCode": "MC"
+    "name": "Assumption Day"
   },
   {
     "date": "2024-11-01",
     "localName": "La Toussaint",
-    "name": "All Saints Day",
-    "countryCode": "MC"
+    "name": "All Saints Day"
   },
   {
     "date": "2024-11-19",
     "localName": "La Fête du Prince",
-    "name": "National Day",
-    "countryCode": "MC"
+    "name": "National Day"
   },
   {
     "date": "2024-12-08",
     "localName": "L’Immaculée Conception",
-    "name": "The Immaculate Conception",
-    "countryCode": "MC"
+    "name": "The Immaculate Conception"
   },
   {
     "date": "2024-12-25",
     "localName": "Noël​",
-    "name": "​Christmas Day",
-    "countryCode": "MC"
+    "name": "​Christmas Day"
   }
 ]
