@@ -57,18 +57,19 @@ export default function Main() {
       <div className="grid gap-2">
         {holidays.map((holiday, index) => (
           <Card key={index} className="p-6">
-            <div className="flex items-center justify-between mb-4">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
               <h3 className="text-xl font-semibold">{holiday.name}</h3>
-              <p className="text-muted-foreground">{holiday.date}</p>
+              <p className="text-muted-foreground sm:ml-4">{holiday.date}</p>
             </div>
             <p className="text-muted-foreground">{holiday.localName}</p>
           </Card>
         ))}
       </div>
+
       <footer className="mt-12 pt-4 text-sm text-muted-foreground">
-        <div className="container max-w-6xl mx-auto flex justify-between">
-          <p>&copy; 2024 HolidayPeek. All rights reserved.</p>
-          <nav className="flex gap-4">
+        <div className="container max-w-6xl mx-auto px-2 flex flex-col-reverse items-center justify-between sm:flex-row">
+          <p className="mt-2">&copy; 2024 HolidayPeek. All rights reserved.</p>
+          <nav className="flex gap-4 mt-2 sm:mt-0">
             <Link href="https://github.com/bandaranayake/holiday-peek" target="_blank" className="hover:underline" prefetch={false}>
               Contribute
             </Link>
@@ -76,7 +77,6 @@ export default function Main() {
           </nav>
         </div>
       </footer>
-
     </div>
   )
 }
