@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import DialogAttribution from './DialogAttribution'; // Make sure this path is correct
+import DialogAttribution from '@/components/DialogAttribution';
 
 const Footer: React.FC = () => {
     return (

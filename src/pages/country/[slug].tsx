@@ -1,6 +1,7 @@
 import { Card } from "@/components/ui/card";
 import Holiday from "@/interfaces/Holiday";
 import { COUNTRIES } from "@/utils/constants";
+import fs from 'fs';
 
 type StaticPropsParams = {
   params: {
@@ -23,9 +24,10 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }: StaticPropsParams) {
   const country = COUNTRIES.find(country => country.slug === params.slug);
+  const filePath = `data/${country?.countryCode}.json`;
 
-  const res = await fetch(`http://localhost:3000/data/${country?.countryCode}.json`)
-  const holidays = await res.json();
+  const jsonData = fs.readFileSync(filePath, 'utf8');
+  const holidays = JSON.parse(jsonData);
 
   return { props: { holidays } }
 }
