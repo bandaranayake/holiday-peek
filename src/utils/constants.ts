@@ -2,7 +2,7 @@ export const COUNTRIES = [
   {
     countryCode: "AX",
     name: "Åland Islands",
-    slug: "åland-islands",
+    slug: "aland-islands",
   },
   {
     countryCode: "AL",
