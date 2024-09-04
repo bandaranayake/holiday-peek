@@ -18,7 +18,7 @@ export default function HomePage() {
         else {
             router.push(`country/${COUNTRIES[0].slug}`);
         }
-    }, []);
+    }, [router]);
 
     return null;
 }
