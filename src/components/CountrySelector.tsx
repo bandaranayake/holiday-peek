@@ -1,11 +1,11 @@
-import React, { Dispatch, SetStateAction } from 'react';
+import React from 'react';
 import Country from '@/interfaces/Country';
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "@/components/ui/select";
 import Image from 'next/image';
 
 interface CountrySelectorProps {
     selectedCountry: string;
-    onValueChange: Dispatch<SetStateAction<string>>;
+    onValueChange: (value: string) => void;
     countryList: Country[];
 }
 
