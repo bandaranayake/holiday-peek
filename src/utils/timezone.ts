@@ -487,12 +487,12 @@ const timezones: { [key: string]: string[] } = {
   "US/Samoa": ["WS"],
 };
 
-export function getCountry(): string | null {
+export function getCountry(): string {
   const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
   if (!timezone || !timezones[timezone]) {
-    return null;
+    return "";
   }
 
-  return timezones[timezone][0] || null;
+  return timezones[timezone][0] || "";
 }
