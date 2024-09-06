@@ -19,7 +19,7 @@ export async function getStaticPaths() {
     params: { id: country.countryCode, slug: country.slug },
   }))
 
-  return { paths, fallback: false }
+  return { paths, fallback: false };
 }
 
 export async function getStaticProps({ params }: StaticPropsParams) {
@@ -29,7 +29,7 @@ export async function getStaticProps({ params }: StaticPropsParams) {
   const jsonData = fs.readFileSync(filePath, 'utf8');
   const holidays = JSON.parse(jsonData);
 
-  return { props: { holidays } }
+  return { props: { holidays } };
 }
 
 export default function CountryPage({ holidays }: MainProps) {

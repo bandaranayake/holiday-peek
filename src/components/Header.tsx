@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import { Moon as MoonIcon, Sun as SunIcon } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useRouter } from 'next/router';
+import Link from "next/link";
 
 const Header: React.FC = () => {
     const pathname = usePathname();
@@ -15,6 +16,7 @@ const Header: React.FC = () => {
 
     const { theme, setTheme } = useTheme();
     const [selectedCountry, setSelectedCountry] = useState<string>("");
+    const [showSelector, setShowSelector] = useState(false);
     const [mounted, setMounted] = useState(false);
 
     useEffect(() => {
@@ -22,6 +24,16 @@ const Header: React.FC = () => {
     }, []);
 
     useEffect(() => {
+        const cleanPath = pathname.split('?')[0].split('#')[0].trim();
+        const isHomepage = cleanPath === '/';
+
+        if (isHomepage) {
+            setShowSelector(false);
+        }
+        else {
+            setShowSelector(true);
+        }
+
         const slug = pathname?.split("/").filter(Boolean)?.[1] || "";
 
         let country = COUNTRIES.find(country => country.slug === slug);
@@ -35,7 +47,7 @@ const Header: React.FC = () => {
         const country = COUNTRIES.find(country => country.countryCode === countryCode);
 
         if (country) {
-            router.push(`/country/${country.slug}`);
+            router.push(`/countries/${country.slug}`);
         }
     };
 
@@ -43,32 +55,36 @@ const Header: React.FC = () => {
         return null;
     }
 
+    const getModeButton = (theme: string | undefined): JSX.Element => {
+        if (theme === "light") {
+            return <Button
+                variant="outline"
+                size="icon"
+                onClick={() => setTheme("dark")}
+            >
+                <SunIcon size={16} />
+            </Button>
+        } else {
+            return <Button
+                variant="outline"
+                size="icon"
+                onClick={() => setTheme("light")}
+            >
+                <MoonIcon size={16} />
+            </Button>
+        }
+    }
+
     return (
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-8" suppressHydrationWarning>
-            <h1 className="text-3xl font-bold tracking-tight">Holiday Peek</h1>
+            <h1 className="text-3xl font-bold tracking-tight"><Link href="/" prefetch={false}>Holiday Peek</Link></h1>
             <div className="w-full md:w-auto flex items-center space-x-2">
-                <CountrySelector
+                {showSelector ? <CountrySelector
                     selectedCountry={selectedCountry}
                     onValueChange={handleSelectChange}
                     countryList={COUNTRIES}
-                />
-                {theme === "light" ? (
-                    <Button
-                        variant="outline"
-                        size="icon"
-                        onClick={() => setTheme("dark")}
-                    >
-                        <SunIcon size={16} />
-                    </Button>
-                ) : (
-                    <Button
-                        variant="outline"
-                        size="icon"
-                        onClick={() => setTheme("light")}
-                    >
-                        <MoonIcon size={16} />
-                    </Button>
-                )}
+                /> : null}
+                {getModeButton(theme)}
             </div>
         </div>
     );
