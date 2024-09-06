@@ -76,9 +76,9 @@ const Header: React.FC = () => {
     }
 
     return (
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-8" suppressHydrationWarning>
+        <div className={`flex ${showSelector ? "flex-col md:flex-row" : "flex-row"} items-start md:items-center justify-between gap-4 mb-8`} suppressHydrationWarning>
             <h1 className="text-3xl font-bold tracking-tight"><Link href="/" prefetch={false}>Holiday Peek</Link></h1>
-            <div className="w-full md:w-auto flex items-center space-x-2">
+            <div className={`${showSelector ? "w-full md:w-auto flex items-center space-x-2" : ""}`}>
                 {showSelector ? <CountrySelector
                     selectedCountry={selectedCountry}
                     onValueChange={handleSelectChange}
