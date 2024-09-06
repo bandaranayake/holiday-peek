@@ -1,4 +1,5 @@
 import { COUNTRIES } from "@/utils/constants";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function HomePage() {
@@ -11,10 +12,12 @@ export default function HomePage() {
                     prefetch={false}
                     className="flex items-center p-4 border rounded-lg"
                 >
-                    <img
+                    <Image
                         src={`/images/flags/${country.countryCode}.png`}
                         alt={`${country.name} Flag`}
-                        className="w-8 h-8 mr-3"
+                        width={32}
+                        height={32}
+                        className="mr-3"
                     />
                     <span className="text-lg font-medium">{country.name}</span>
                 </Link>
