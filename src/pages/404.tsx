@@ -8,7 +8,7 @@ const NotFoundPage: FC = () => {
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
-            height: '50vh',
+            height: '75vh',
             textAlign: 'center',
             padding: '0 10px'
         }}>
