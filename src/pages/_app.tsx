@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
             <Head>
                 <title>Holiday Peek - Discover public holidays worldwide</title>
                 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-                <meta name="description" content="Explore public holidays, national holidays, and important dates for countries around the world. Stay updated with HolidayPeek, your global holiday guide." />
+                <meta name="description" content="Explore public holidays, national holidays, and important dates for countries around the world. Stay updated with Holiday Peek, your global holiday guide." />
             </Head>
             <div className={inter.className}>
                 <ThemeProvider
