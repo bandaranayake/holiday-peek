@@ -1,81 +1,81 @@
 [
   {
-    "date": "2024-01-01",
+    "date": "2025-01-01",
     "localName": "Nýársdagur",
     "name": "New Year's Day"
   },
   {
-    "date": "2024-03-28",
+    "date": "2025-04-17",
     "localName": "Skírdagur",
     "name": "Maundy Thursday"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Föstudagurinn langi",
     "name": "Good Friday"
   },
   {
-    "date": "2024-03-31",
+    "date": "2025-04-20",
     "localName": "Páskadagur",
     "name": "Easter Sunday"
   },
   {
-    "date": "2024-04-01",
+    "date": "2025-04-21",
     "localName": "Annar í páskum",
     "name": "Easter Monday"
   },
   {
-    "date": "2024-04-25",
+    "date": "2025-04-24",
     "localName": "Sumardagurinn fyrsti",
     "name": "First Day of Summer"
   },
   {
-    "date": "2024-05-01",
+    "date": "2025-05-01",
     "localName": "Verkalýðsdagurinn",
     "name": "May Day"
   },
   {
-    "date": "2024-05-09",
+    "date": "2025-05-29",
     "localName": "Uppstigningardagur",
     "name": "Ascension Day"
   },
   {
-    "date": "2024-05-19",
+    "date": "2025-06-08",
     "localName": "Hvítasunnudagur",
     "name": "Pentecost"
   },
   {
-    "date": "2024-05-20",
+    "date": "2025-06-09",
     "localName": "Annar í hvítasunnu",
     "name": "Whit Monday"
   },
   {
-    "date": "2024-06-17",
+    "date": "2025-06-17",
     "localName": "Þjóðhátíðardagurinn",
     "name": "Icelandic National Day"
   },
   {
-    "date": "2024-08-05",
+    "date": "2025-08-04",
     "localName": "Frídagur verslunarmanna",
     "name": "Commerce Day"
   },
   {
-    "date": "2024-12-24",
+    "date": "2025-12-24",
     "localName": "Aðfangadagur",
     "name": "Christmas Eve"
   },
   {
-    "date": "2024-12-25",
+    "date": "2025-12-25",
     "localName": "Jóladagur",
     "name": "Christmas Day"
   },
   {
-    "date": "2024-12-26",
+    "date": "2025-12-26",
     "localName": "Annar í jólum",
     "name": "St. Stephen's Day"
   },
   {
-    "date": "2024-12-31",
+    "date": "2025-12-31",
     "localName": "Gamlársdagur",
     "name": "New Year's Eve"
   }

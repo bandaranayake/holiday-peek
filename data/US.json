@@ -1,71 +1,81 @@
 [
   {
-    "date": "2024-01-01",
+    "date": "2025-01-01",
     "localName": "New Year's Day",
     "name": "New Year's Day"
   },
   {
-    "date": "2024-01-15",
+    "date": "2025-01-20",
     "localName": "Martin Luther King, Jr. Day",
     "name": "Martin Luther King, Jr. Day"
   },
   {
-    "date": "2024-02-19",
+    "date": "2025-02-12",
+    "localName": "Lincoln's Birthday",
+    "name": "Lincoln's Birthday"
+  },
+  {
+    "date": "2025-02-17",
     "localName": "Washington's Birthday",
     "name": "Presidents Day"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Good Friday",
     "name": "Good Friday"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Good Friday",
     "name": "Good Friday"
   },
   {
-    "date": "2024-05-27",
+    "date": "2025-05-08",
+    "localName": "Truman Day",
+    "name": "Truman Day"
+  },
+  {
+    "date": "2025-05-26",
     "localName": "Memorial Day",
     "name": "Memorial Day"
   },
   {
-    "date": "2024-06-19",
+    "date": "2025-06-19",
     "localName": "Juneteenth National Independence Day",
     "name": "Juneteenth National Independence Day"
   },
   {
-    "date": "2024-07-04",
+    "date": "2025-07-04",
     "localName": "Independence Day",
     "name": "Independence Day"
   },
   {
-    "date": "2024-09-02",
+    "date": "2025-09-01",
     "localName": "Labour Day",
     "name": "Labor Day"
   },
   {
-    "date": "2024-10-14",
+    "date": "2025-10-13",
     "localName": "Columbus Day",
     "name": "Columbus Day"
   },
   {
-    "date": "2024-10-14",
+    "date": "2025-10-13",
     "localName": "Indigenous Peoples' Day",
     "name": "Indigenous Peoples' Day"
   },
   {
-    "date": "2024-11-11",
+    "date": "2025-11-11",
     "localName": "Veterans Day",
     "name": "Veterans Day"
   },
   {
-    "date": "2024-11-28",
+    "date": "2025-11-27",
     "localName": "Thanksgiving Day",
     "name": "Thanksgiving Day"
   },
   {
-    "date": "2024-12-25",
+    "date": "2025-12-25",
     "localName": "Christmas Day",
     "name": "Christmas Day"
   }

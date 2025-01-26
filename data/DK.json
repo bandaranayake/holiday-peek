@@ -1,71 +1,71 @@
 [
   {
-    "date": "2024-01-01",
+    "date": "2025-01-01",
     "localName": "Nytårsdag",
     "name": "New Year's Day"
   },
   {
-    "date": "2024-03-28",
+    "date": "2025-04-17",
     "localName": "Skærtorsdag",
     "name": "Maundy Thursday"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Langfredag",
     "name": "Good Friday"
   },
   {
-    "date": "2024-03-31",
+    "date": "2025-04-20",
     "localName": "Påskedag",
     "name": "Easter Sunday"
   },
   {
-    "date": "2024-04-01",
+    "date": "2025-04-21",
     "localName": "2. Påskedag",
     "name": "Easter Monday"
   },
   {
-    "date": "2024-05-09",
+    "date": "2025-05-29",
     "localName": "Kristi Himmelfartsdag",
     "name": "Ascension Day"
   },
   {
-    "date": "2024-05-10",
+    "date": "2025-05-30",
     "localName": "Banklukkedag",
     "name": "Bank closing day"
   },
   {
-    "date": "2024-05-19",
-    "localName": "Pinsedag",
-    "name": "Pentecost"
-  },
-  {
-    "date": "2024-05-20",
-    "localName": "2. Pinsedag",
-    "name": "Whit Monday"
-  },
-  {
-    "date": "2024-06-05",
+    "date": "2025-06-05",
     "localName": "Grundlovsdag",
     "name": "Constitution Day"
   },
   {
-    "date": "2024-12-24",
+    "date": "2025-06-08",
+    "localName": "Pinsedag",
+    "name": "Pentecost"
+  },
+  {
+    "date": "2025-06-09",
+    "localName": "2. Pinsedag",
+    "name": "Whit Monday"
+  },
+  {
+    "date": "2025-12-24",
     "localName": "Juleaftensdag",
     "name": "Christmas Eve"
   },
   {
-    "date": "2024-12-25",
+    "date": "2025-12-25",
     "localName": "Juledag / 1. juledag",
     "name": "Christmas Day"
   },
   {
-    "date": "2024-12-26",
+    "date": "2025-12-26",
     "localName": "2. juledag",
     "name": "St. Stephen's Day"
   },
   {
-    "date": "2024-12-31",
+    "date": "2025-12-31",
     "localName": "Nytårsaftensdag",
     "name": "New Year's Eve"
   }
