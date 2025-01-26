@@ -1,56 +1,56 @@
 [
   {
-    "date": "2024-01-01",
+    "date": "2025-01-01",
     "localName": "New Year's Day",
     "name": "New Year's Day"
   },
   {
-    "date": "2024-03-17",
+    "date": "2025-03-17",
     "localName": "Saint Patrick's Day",
     "name": "Saint Patrick's Day"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Good Friday",
     "name": "Good Friday"
   },
   {
-    "date": "2024-04-01",
+    "date": "2025-04-21",
     "localName": "Easter Monday",
     "name": "Easter Monday"
   },
   {
-    "date": "2024-05-06",
+    "date": "2025-05-05",
     "localName": "Labour Day",
     "name": "Labour Day"
   },
   {
-    "date": "2024-05-20",
-    "localName": "Whit Monday",
-    "name": "Whit Monday"
-  },
-  {
-    "date": "2024-06-10",
+    "date": "2025-06-09",
     "localName": "Queen's Birthday",
     "name": "Queen's Birthday"
   },
   {
-    "date": "2024-08-05",
+    "date": "2025-06-09",
+    "localName": "Whit Monday",
+    "name": "Whit Monday"
+  },
+  {
+    "date": "2025-08-04",
     "localName": "Emancipation Day",
     "name": "Emancipation Day"
   },
   {
-    "date": "2024-12-25",
+    "date": "2025-12-25",
     "localName": "Christmas Day",
     "name": "Christmas Day"
   },
   {
-    "date": "2024-12-26",
+    "date": "2025-12-26",
     "localName": "St. Stephen's Day",
     "name": "Boxing Day"
   },
   {
-    "date": "2024-12-31",
+    "date": "2025-12-31",
     "localName": "Festival Day",
     "name": "Festival Day"
   }

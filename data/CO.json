@@ -1,91 +1,91 @@
 [
   {
-    "date": "2024-01-01",
+    "date": "2025-01-01",
     "localName": "Año Nuevo",
     "name": "New Year's Day"
   },
   {
-    "date": "2024-01-08",
+    "date": "2025-01-06",
     "localName": "Día de los Reyes Magos",
     "name": "Epiphany"
   },
   {
-    "date": "2024-03-25",
+    "date": "2025-03-24",
     "localName": "Día de San José",
     "name": "Saint Joseph's Day"
   },
   {
-    "date": "2024-03-28",
+    "date": "2025-04-17",
     "localName": "Jueves Santo",
     "name": "Maundy Thursday"
   },
   {
-    "date": "2024-03-29",
+    "date": "2025-04-18",
     "localName": "Viernes Santo",
     "name": "Good Friday"
   },
   {
-    "date": "2024-05-01",
+    "date": "2025-05-01",
     "localName": "Primero de Mayo",
     "name": "Labour Day"
   },
   {
-    "date": "2024-05-13",
+    "date": "2025-06-02",
     "localName": "Ascensión del señor",
     "name": "Ascension Day"
   },
   {
-    "date": "2024-06-03",
+    "date": "2025-06-23",
     "localName": "Corpus Christi",
     "name": "Corpus Christi"
   },
   {
-    "date": "2024-06-10",
-    "localName": "Sagrado Corazón",
-    "name": "Sacred Heart"
-  },
-  {
-    "date": "2024-07-01",
+    "date": "2025-06-30",
     "localName": "San Pedro y San Pablo",
     "name": "Saint Peter and Saint Paul"
   },
   {
-    "date": "2024-07-20",
+    "date": "2025-06-30",
+    "localName": "Sagrado Corazón",
+    "name": "Sacred Heart"
+  },
+  {
+    "date": "2025-07-20",
     "localName": "Declaracion de la Independencia de Colombia",
     "name": "Declaration of Independence"
   },
   {
-    "date": "2024-08-07",
+    "date": "2025-08-07",
     "localName": "Batalla de Boyacá",
     "name": "Battle of Boyacá"
   },
   {
-    "date": "2024-08-19",
+    "date": "2025-08-18",
     "localName": "La Asunción",
     "name": "Assumption of Mary"
   },
   {
-    "date": "2024-10-14",
+    "date": "2025-10-13",
     "localName": "Día de la Raza",
     "name": "Columbus Day"
   },
   {
-    "date": "2024-11-04",
+    "date": "2025-11-03",
     "localName": "Dia de los Santos",
     "name": "All Saints’ Day"
   },
   {
-    "date": "2024-11-11",
+    "date": "2025-11-17",
     "localName": "Independencia de Cartagena",
     "name": "Independence of Cartagena"
   },
   {
-    "date": "2024-12-08",
+    "date": "2025-12-08",
     "localName": "La Inmaculada Concepción",
     "name": "Immaculate Conception"
   },
   {
-    "date": "2024-12-25",
+    "date": "2025-12-25",
     "localName": "Navidad",
     "name": "Christmas Day"
   }
